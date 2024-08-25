@@ -3,7 +3,7 @@ import pandas as pd
 import streamlit as st
 
 # Dados de conexão com o banco
-host = 'localhost'
+host = '127.0.0.1'
 db_fc = 'C:\\Users\\jeffe\\Documents\\Bando de dados Biodiversi\\ALTERDB240620242048.ib'
 user = 'SYSDBA'
 password = 'masterkey'
