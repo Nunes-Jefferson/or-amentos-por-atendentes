@@ -1,7 +1,6 @@
 import fdb
 import pandas as pd
 import streamlit as st
-import matplotlib.pyplot as plt
 
 # Dados de conexão com o banco
 
