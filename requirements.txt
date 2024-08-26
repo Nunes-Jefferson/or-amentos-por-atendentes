@@ -1,2 +1,3 @@
-firebirdsql
 pandas
+streamlit
+firebirdsql
